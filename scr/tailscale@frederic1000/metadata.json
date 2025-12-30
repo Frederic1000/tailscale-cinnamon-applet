@@ -1,0 +1,6 @@
+{
+    "uuid": "tailscale@fred",
+    "name": "Tailscale Control",
+    "description": "Contrôle simple de Tailscale",
+    "version": 1
+}
