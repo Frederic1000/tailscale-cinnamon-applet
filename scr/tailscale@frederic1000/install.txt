@@ -4,10 +4,10 @@ Installation in Linux Mint Cinnamon
 sudo apt install yad jq
 
 2/ Copy the applet files in:
-/usr/share/cinnamon/applets/tailscale@Frederic1000
+/usr/share/cinnamon/applets/tailscale@frederic1000
 
 Or, if you want an installation for the current user only, in:
-$HOME/.local/share/cinnamon/applets/tailscale@Frederic1000
+$HOME/.local/share/cinnamon/applets/tailscale@frederic1000
 
 3/ Edit the .env file
 EXITNODE=name-of-your-tailscale-exit-node-machine
